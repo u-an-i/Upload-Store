@@ -1,0 +1,12 @@
+{
+  "base": "",
+  "salt": "",
+  "serverFromEmail": "",
+  "hostReceiverName": "",
+  "whitelist": [],
+  "enableManualApproval": false,
+  "manualApprovallEmail": "",
+  "notifyEmail": "",
+  "serviceEnabled": false,
+  "setupGuardEmail": ""
+}

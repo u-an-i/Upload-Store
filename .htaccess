@@ -1,0 +1,2 @@
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule ^(.*)$ index.php [L]

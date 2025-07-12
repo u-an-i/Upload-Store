@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 17px;
+    color: #000;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-height: 100vh;
+    max-width: 768px;
+    overflow: auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+input, button[type=submit] {
+    display: block;
+    text-align: center;
+    font-size: 17px;
+}
+input {
+    font-family: "Trebuchet MS", sans-serif;
+}
+button[type=submit] {
+    font-family: Tahoma, sans-serif;
+}

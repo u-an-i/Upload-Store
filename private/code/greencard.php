@@ -1,0 +1,1 @@
+<input type="hidden" value="<?php require_once 'private/code/storage.php'; $check = hrtime(true) . '' . rand(); file_put_contents('private/checks/' . get_private_storagename($check), ''); echo $check; ?>" name="c">
