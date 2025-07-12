@@ -17,6 +17,12 @@ a web tool with which you can let files get uploaded to you if you have a server
 - complete setup and save
 
 ## Features
+- upload capability protected by email
 - whitelist email addresses of potential uploaders
 - manual approval requests of interested uploaders to your email address
 - uploaded files only accessible by you
+
+## Works by
+- sending a link to an upload page via email
+- link is only valid until upload completed
+- upload capability cannot be accessed elsehow
