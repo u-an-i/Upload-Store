@@ -12,7 +12,7 @@ a web tool with which you can let files get uploaded to you if you have a server
 - access to your server by non-web means such as SFTP
 
 ## Installation
-- copy to any directory on your server you can access via the web
+- copy contents of folder "tool" without quotation marks to any directory on your server you can access via the web
 - open setup.php in that directory via the web or open config.json in directory "private" without quotation marks in that directory by SFTP or similar
 - complete setup and save
 
